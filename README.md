@@ -6,7 +6,7 @@
 ##
 📌Atuando como aluno de Ciência da Computação <br>
 📌Cursando o 1º semestre de Ciência da Computação na Universidade de Vila Velha - (UVV). <br>
-📌Formada em Técnico em Mecânica e Técnico em Mineração. <br>
+📌Formado em Técnico em Mecânica e Técnico em Mineração. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 #####  Trabalhando atualmente com:
